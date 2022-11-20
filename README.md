@@ -1,4 +1,14 @@
-# [Discord Giveaway Bot]()
+<h1 align="center">
+
+<img src="" alt="logo" width="256"/>
+<br/>
+GiveawayS Discord Bot
+</h1>
+
+<h4 align="center">Hold giveaways quickly and easily on your Discord server! Written In [Discord.js](https://discord.js.org) v13.5.0 and [Node.js](https://nodejs.org) v16.13.1
+</h4>
+
+<div align="center">
 
 ![Maintenance](https://img.shields.io/maintenance/yes/2022?style=plastic)
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/AnthonyVanTonder/TheGiveawayBot)
@@ -11,9 +21,12 @@
 [![Stars](https://img.shields.io/github/stars/AnthonyVanTonder/TheGiveawayBot.svg)](https://github.com/AnthonyVanTonder/TheGiveawayBot/stargazers)
 [![CodeFactor](https://www.codefactor.io/repository/github/anthonyvantonder/thegiveawaybot/badge)](https://www.codefactor.io/repository/github/anthonyvantonder/thegiveawaybot)
 
-Hold giveaways quickly and easily on your Discord server! Written In [Discord.js](https://discord.js.org) v13.5.0 and [Node.js](https://nodejs.org) v16.13.1
 
-![Example](https://i.imgur.com/pAnTFw4.jpg)
+</div>
+
+# Credits
+
+Created By [@Aim2339](https://github.com/Aim2339)
 
 # Usage
 
@@ -42,7 +55,7 @@ Do not include <> nor [] - <> means required and [] means optional.
 
 # Installation | How to use the Handler
 
- **1.** Install [node.js v17+](https://nodejs.org/) or higher
+ **1.** Install [node.js v16+](https://nodejs.org/) or higher
 
  **2.** Download this repo and unzip it    |    or git clone it
 
@@ -51,9 +64,3 @@ Do not include <> nor [] - <> means required and [] means optional.
  **4** Fill in the parameters, RIGHT in `config.json`!
 
  **5.** start the bot with **`node_modules/.bin/node sharding.js`**!
-
-# Suggests, Bugs, Feature Requests
-If you find bugs or would like to suggest features, join my bot development server here: discord link coming soon
-
-# Self-Hosting
-Self-hosting your own copy of this bot is not supported; the source code is provided here so users and other bot developers can see how the bot functions. No help will be provided for editing, compiling, or building any code in this repository, and any changes must be documented as per the [license](https://github.com/AnthonyVanTonder/Discord-Giveaway-Bot/blob/master/LICENSE).
