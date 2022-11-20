@@ -11,15 +11,15 @@ GiveawayS Discord Bot
 <div align="center">
 
 ![Maintenance](https://img.shields.io/maintenance/yes/2022?style=plastic)
-![GitHub package.json version](https://img.shields.io/github/package-json/v/AnthonyVanTonder/TheGiveawayBot)
-![GitHub repo size](https://img.shields.io/github/repo-size/AnthonyVanTonder/TheGiveawayBot)
-![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/AnthonyVanTonder/TheGiveawayBot/discord.js)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/AnthonyVanTonder/GiveawayS-Discord-Bot)
+![GitHub repo size](https://img.shields.io/github/repo-size/AnthonyVanTonder/GiveawayS-Discord-Bot)
+![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/AnthonyVanTonder/GiveawayS-Discord-Bot/discord.js)
 ![Discord Support](https://img.shields.io/discord/889487066440818690?label=Discord%20Support&labelColor=FFFFF&style=plastic&logo=Discord&link=https://discord.gg/ZAzGRFTv59&link=https://discord.gg/ZAzGRFTv59)
-[![Run on Repl.it](https://repl.it/badge/github/AnthonyVanTonder/TheGiveawayBot)](https://repl.it/github/AnthonyVanTonder/TheGiveawayBot)
-[![Contributors](https://img.shields.io/github/contributors/AnthonyVanTonder/TheGiveawayBot?label=Contributors&color=yellow)](https://github.com/AnthonyVanTonder/TheGiveawayBot/graphs/contributors)
-[![LICENSE](https://img.shields.io/github/license/AnthonyVanTonder/TheGiveawayBot?label=License&color=blueviolet)](https://github.com/AnthonyVanTonder/TheGiveawayBot/blob/main/LICENSE)
-[![Stars](https://img.shields.io/github/stars/AnthonyVanTonder/TheGiveawayBot.svg)](https://github.com/AnthonyVanTonder/TheGiveawayBot/stargazers)
-[![CodeFactor](https://www.codefactor.io/repository/github/anthonyvantonder/thegiveawaybot/badge)](https://www.codefactor.io/repository/github/anthonyvantonder/thegiveawaybot)
+[![Run on Repl.it](https://repl.it/badge/github/AnthonyVanTonder/GiveawayS-Discord-Bot)](https://repl.it/github/AnthonyVanTonder/GiveawayS-Discord-Bot)
+[![Contributors](https://img.shields.io/github/contributors/AnthonyVanTonder/GiveawayS-Discord-Bot?label=Contributors&color=yellow)](https://github.com/AnthonyVanTonder/GiveawayS-Discord-Bot/graphs/contributors)
+[![LICENSE](https://img.shields.io/github/license/AnthonyVanTonder/GiveawayS-Discord-Bot?label=License&color=blueviolet)](https://github.com/AnthonyVanTonder/GiveawayS-Discord-Bot/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/AnthonyVanTonder/GiveawayS-Discord-Bot.svg)](https://github.com/AnthonyVanTonder/GiveawayS-Discord-Bot/stargazers)
+[![CodeFactor](https://www.codefactor.io/repository/github/anthonyvantonder/thegiveawaybot/badge)](https://www.codefactor.io/repository/github/anthonyvantonder/GiveawayS-Discord-Bot)
 
 
 </div>
