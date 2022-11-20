@@ -1,6 +1,6 @@
 <h1 align="center">
 
-<img src="" alt="logo" width="256"/>
+<img src="https://images-ext-1.discordapp.net/external/t_gCzO58AOb2eZ_Xjrnt3cBlqdu0-QWELoIrFH-D9_E/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/1037359071818432512/dd0a60d9f487adf703022cdbe1d06772.webp" alt="logo" width="256"/>
 <br/>
 GiveawayS Discord Bot
 </h1>
