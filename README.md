@@ -32,11 +32,9 @@ This code is created by [@Aim2339](https://github.com/Aim2339) Aim2339 deleted t
 
 🎉 TheGiveawayBot commands:
 
-- **/about** - shows info about the bot
 - **/invite** - shows how to invite the bot
 - **/ping** - checks the bot's latency
-- **/help** - Shows you Help for TheGiveawayBot
-- **/commands** - View all the commands available to the bot!
+- **/help** - View all the commands available to the bot!
 - **/feedback** [content] - Send me feedback. (can include bugs/problems)
 - **/support** - Gets a link to my support guild!
 
