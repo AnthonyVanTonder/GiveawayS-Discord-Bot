@@ -19,7 +19,7 @@ GiveawayS Discord Bot
 [![Contributors](https://img.shields.io/github/contributors/AnthonyVanTonder/GiveawayS-Discord-Bot?label=Contributors&color=yellow)](https://github.com/AnthonyVanTonder/GiveawayS-Discord-Bot/graphs/contributors)
 [![LICENSE](https://img.shields.io/github/license/AnthonyVanTonder/GiveawayS-Discord-Bot?label=License&color=blueviolet)](https://github.com/AnthonyVanTonder/GiveawayS-Discord-Bot/blob/main/LICENSE)
 [![Stars](https://img.shields.io/github/stars/AnthonyVanTonder/GiveawayS-Discord-Bot.svg)](https://github.com/AnthonyVanTonder/GiveawayS-Discord-Bot/stargazers)
-[![CodeFactor](https://www.codefactor.io/repository/github/anthonyvantonder/thegiveawaybot/badge)](https://www.codefactor.io/repository/github/anthonyvantonder/GiveawayS-Discord-Bot)
+[![CodeFactor](https://www.codefactor.io/repository/github/anthonyvantonder/giveaways-discord-bot/badge)](https://www.codefactor.io/repository/github/anthonyvantonder/giveaways-discord-bot)
 
 
 </div>
