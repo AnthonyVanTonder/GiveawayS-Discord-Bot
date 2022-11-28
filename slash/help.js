@@ -115,11 +115,6 @@ module.exports = {
           inline: true,
         },
         {
-          name: "__Vote__",
-          value: `Vote for the bot!\n > **How?: \`/vote\`**`,
-          inline: true,
-        },
-        {
           name: "__Feedback__",
           value: `Send live feedback about the bot to the developer!\n > **How?: \`/feedback\`**`,
           inline: true,
