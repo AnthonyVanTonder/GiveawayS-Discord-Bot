@@ -26,7 +26,7 @@ GiveawayS Discord Bot
 
 # Credits
 
-Created By [@Aim2339](https://github.com/Aim2339)
+This code is created by [@Aim2339](https://github.com/Aim2339) Aim2339 deleted the original code of this code. I only added it back if anyone wants to use this code Aim2339 if you want me to delete this repositories pleas let me know and I will remove it. When using this code pleas make sure to credit Aim2339 when using this code.
 
 # Usage
 
