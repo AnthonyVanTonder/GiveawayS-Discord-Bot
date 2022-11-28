@@ -5,7 +5,7 @@
 GiveawayS Discord Bot
 </h1>
 
-<h4 align="center">Hold giveaways quickly and easily on your Discord server! Written In [Discord.js](https://discord.js.org) v13.5.0 and [Node.js](https://nodejs.org) v16.13.1
+<h4 align="center">Hold giveaways quickly and easily on your Discord server!
 </h4>
 
 <div align="center">
