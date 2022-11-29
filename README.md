@@ -28,29 +28,6 @@ GiveawayS Discord Bot
 
 This code is created by [@Aim2339](https://github.com/Aim2339) Aim2339 deleted the original code of this code. I only added it back if anyone wants to use this code Aim2339 if you want me to delete this repositories pleas let me know and I will remove it. When using this code pleas make sure to credit Aim2339 when using this code.
 
-# Usage
-
-🎉 TheGiveawayBot commands:
-
-- **/invite** - shows how to invite the bot
-- **/ping** - checks the bot's latency
-- **/help** - View all the commands available to the bot!
-- **/feedback** [content] - Send me feedback. (can include bugs/problems)
-- **/support** - Gets a link to my support guild!
-
-Giveaway:
-
-- **/start [time] [winners] [prize] [#channel]** - starts a giveaway with the provided number of seconds. For example, /g start 30s 2 Steam Code #giveaway would start a 30-second giveaway for a Steam Code with 2 winners in the #giveaway channel! To use minutes/hours/days/weeks/months instead of seconds, simply include an "m", "h", or "d" in the time ~ 3m would be a would be a 3-minute giveaway.
-- **/end [messageId]** - ends the most recent giveaway in the current channel. If you want to end an older/more specific giveaway, use **/g end [messageId]**
-- **/reroll [messageId]** - picks a new winner from the latest giveaway. If you want to reroll an older giveaway, you can use **/reroll [messageId]**
-- **/edit [messageId]** - allows you do edit your giveaway that you have hosted.
-- **/delete [messageId]** - Delete a giveaway that have been made.
-- **/resume [messageId]** - Resume a paused giveaway.
-- **/pause [messageId]** - Pause active giveaways on the server.
-- **/list** - lists all the currently-running giveaways on the server
-
-Do not include <> nor [] - <> means required and [] means optional.
-
 # Installation | How to use the Handler
 
  **1.** Install [node.js v16+](https://nodejs.org/) or higher
